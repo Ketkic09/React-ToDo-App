@@ -1,14 +1,20 @@
-#A basic To do app in react :clipboard:
+**A basic To do app in react** :memo:
 
-#Functions :
+
+:round_pushpin:**Functions** :
+<br>
 1)Adds task
-<img src="todo_op_img/add" width="100" height="50">
+<br>
+<img src="todo_op_img/add.png" width="200" height="100">
 
-1)Marks Task Done
-<img src="todo_op_img/done" width="100" height="50">
+2)Marks Task Done
+<br>
+<img src="todo_op_img/done.png" width="200" height="100">
 
-1)Updates Task
-<img src="todo_op_img/update" width="100" height="50">
+3)Updates Task
+<br>
+<img src="todo_op_img/update.png" width="200" height="100">
 
-1)Deletes task
-<img src="todo_op_img/delete" width="100" height="50">
+4)Deletes task
+<br>
+<img src="todo_op_img/delete.png" width="200" height="100">
