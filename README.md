@@ -5,16 +5,16 @@
 <br>
 1)Adds task
 <br>
-<img src="todo_op_img/add.png" width="200" height="100">
+<img src="todo_op_img/add.png" width="700" height="500">
 
-2)Marks Task Done
+2)Updates Task
 <br>
-<img src="todo_op_img/done.png" width="200" height="100">
+<img src="todo_op_img/update.png" width="700" height="500">
 
-3)Updates Task
+3)Deletes task
 <br>
-<img src="todo_op_img/update.png" width="200" height="100">
+<img src="todo_op_img/delete.png" width="700" height="500">
 
-4)Deletes task
+4)Marks Task Done
 <br>
-<img src="todo_op_img/delete.png" width="200" height="100">
+<img src="todo_op_img/done.png" width="700" height="500">
